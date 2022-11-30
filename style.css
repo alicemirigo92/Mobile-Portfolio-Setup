@@ -10,14 +10,14 @@ body {
   justify-content: center;
   align-items: center;
   height: 4910px;
-  width: 320px;
+  width: 375px 100vw;
 }
 
 header {
   position: absolute;
   top: 0;
   height: 627px;
-  width: 320px;
+  width: 375px 100vw;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -88,4 +88,9 @@ header {
   height: 50px;
   background: #1a2236;
   padding: 12px 42px;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: black;
 }
