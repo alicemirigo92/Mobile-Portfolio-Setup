@@ -10,14 +10,14 @@ body {
   justify-content: center;
   align-items: center;
   height: 4910px;
-  width: 375px;
+  width: 375%;
 }
 
 header {
   position: absolute;
   top: 0;
   height: 627px;
-  width: 375px;
+  width: 375%;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -417,4 +417,10 @@ ul {
   background-color: #fff;
   color: #e2505c;
   border: 1px solid #e2505c;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
 }
