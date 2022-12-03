@@ -5,19 +5,17 @@
 }
 
 body {
-  position: absolute;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 4910px;
+  height: auto;
   width: 100%;
 }
 
 header {
-  position: absolute;
   top: 0;
-  height: 627px;
+  height: 627%;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -31,6 +29,7 @@ header {
 
 .icon {
   position: absolute;
+  background-repeat: no-repeat;
   width: 100%;
   height: 74px;
   left: 0;
@@ -40,6 +39,7 @@ header {
 
 .menu {
   position: absolute;
+  background-repeat: no-repeat;
   width: 100%;
   height: 14px;
   left: 284px;
@@ -50,7 +50,7 @@ header {
 .headline-section {
   display: flex;
   flex-direction: column;
-  gap: 20px;
+  gap: 10px;
   padding-left: 16px;
 }
 
@@ -61,7 +61,7 @@ header {
   font-size: 50px;
   line-height: 100%;
   color: #1a2236;
-  width: 100%;
+  width: 50%;
   height: 100px;
 }
 
@@ -73,8 +73,8 @@ header {
   line-height: 21px;
   letter-spacing: -0.01em;
   color: #1a2236;
-  width: 100%;
-  height: 126px;
+  width: 23%;
+  height: 160px;
 }
 
 .headline-section > button {
@@ -85,7 +85,7 @@ header {
   line-height: 24px;
   text-align: center;
   color: #fff;
-  width: 100%;
+  width: 20%;
   height: 50px;
   background: #1a2236;
   padding: 12px 42px;
@@ -97,14 +97,14 @@ button:hover {
 
 header > img {
   position: absolute;
-  width: 100%;
+  width: 25%;
   height: 160px;
   top: 440px;
 }
 
 .work {
   position: absolute;
-  width: 100%;
+  width: 30%;
   height: 2154px;
   left: 0;
   top: 622px;
@@ -119,7 +119,7 @@ header > img {
   font-size: 50px;
   line-height: 100%;
   color: #1a2236;
-  width: 100%;
+  width: 20%;
   padding-left: 16px;
 }
 
@@ -132,6 +132,7 @@ header > img {
 
 .img {
   width: 100%;
+  background-repeat: no-repeat;
   height: 187px;
   border: 0.333333px solid rgba(255, 255, 255, 0.1);
 }
@@ -161,7 +162,7 @@ header > img {
 }
 
 .project {
-  width: 100%;
+  width: 85%;
   height: 160px;
   background: #1a2236;
   border: 0.333333px solid rgba(255, 255, 255, 0.1);
@@ -250,7 +251,7 @@ ul {
 }
 
 .about > h2 {
-  width: 100%;
+  width: 50%;
   height: 50px;
   font-family: "Playfair Display", sans-serif;
   font-style: normal;
@@ -261,7 +262,7 @@ ul {
 }
 
 .about > p {
-  width: 100%;
+  width: 20%;
   height: 126px;
   font-family: "Poppins", sans-serif;
   font-style: normal;
@@ -276,8 +277,8 @@ ul {
   justify-content: center;
   align-items: center;
   gap: 10px;
-  width: 100%;
-  height: 50px;
+  width: 23%;
+  height: 40px;
   background: #1a2236;
   padding: 13px 60px;
   color: #fff;
@@ -287,11 +288,11 @@ ul {
 .languages {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 23%;
   height: 289px;
   background: #1c528a;
   color: #fff;
-  gap: 21px;
+  gap: 18px;
   padding-left: 15px;
   padding-top: 30px;
   background-image: url("./images/hash.svg");
@@ -332,7 +333,7 @@ ul {
 .framework {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 23%;
   height: 289px;
   background: #e2505c;
   color: #fff;
@@ -371,7 +372,7 @@ ul {
 .skills {
   display: flex;
   flex-direction: column;
-  width: 100%;
+  width: 23%;
   height: 289px;
   background: #febf52;
   color: #fff;
