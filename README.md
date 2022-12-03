@@ -1,13 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Mobile Portfolio!
+Mobile Version Portfolio!
 
 > Description the project.
-> In this project I created My Mobile Portfolio Version.
+> In this project I created My Mobile Portfolio Version.I have used CSS Grid and Flexbox.
 
 ## Built With
 
-Html and css
+Html and CSS
+CSS Grid and Flexbox
 
 To get a local copy up and running follow these simple example steps.
 
@@ -45,4 +46,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
