@@ -438,7 +438,6 @@ form {
 
 form > input {
   height: 52px;
-  /* padding: 4px 218px 33px 16px; */
   padding-top: 4px;
   padding-bottom: 33px;
   padding-left: 16px;
@@ -449,19 +448,19 @@ form > input {
   width: 288px;
   height: 63px;
   left: 16px;
-  margin-top: 0px;
+  margin-top: 1px;
 }
+
 .form-section > h1 {
   width: 350px;
   height: 50px;
   left: 16px;
-  font-family: Playfair Display;
+  font-family: "Playfair Display", sans-serif;
   font-size: 50px;
   font-weight: 400;
   line-height: 50px;
-  letter-spacing: 0em;
   text-align: left;
-  padding: 0px;
+  padding: 1px;
   margin-top: 106px;
 }
 
@@ -477,7 +476,6 @@ form > input {
 .footer {
   width: 288px;
   height: 150px;
-  left: 0px;
   background: #1a2236;
 }
 
@@ -496,22 +494,20 @@ form > input {
   color: white;
   padding-top: 32px;
   padding-left: 16px;
-  padding-right: 0px;
-  font-family: Poppins;
+  padding-right: 1px;
+  font-family: "Poppins", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 24px;
-  letter-spacing: 0em;
 }
 
 .socialicons {
   display: flex;
-  /* flex: start; */
   justify-content: space-between;
   align-content: center;
   height: 23px;
   width: 24px;
-  left: 0px;
+  left: 1px;
   border-radius: 8px;
   right: 0%;
   bottom: 0%;
