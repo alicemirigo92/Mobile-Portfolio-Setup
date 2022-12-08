@@ -3,13 +3,13 @@
 Mobile Version Portfolio!
 
 > Description the project.
-> In this project I created My Mobile Portfolio Version.I have used CSS Grid and Flexbox.
+> In this project I created My Mobile Portfolio Version.I have used CSS Grid and Flexbox to create the contact form.
 
 ## Built With
 
 Html and CSS
 CSS Grid and Flexbox
-
+Use of UI and UX
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -31,7 +31,9 @@ To get a local copy up and running follow these simple example steps.
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
+Alice Gathoni
+Alwyn Androvelle
+Dilsher Balouch
 
 Feel free to check the [issues page](../../issues/).
 
