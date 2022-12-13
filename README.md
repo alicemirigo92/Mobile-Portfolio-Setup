@@ -32,8 +32,8 @@ To get a local copy up and running follow these simple example steps.
 ## 🤝 Contributing
 
 Alice Gathoni
-Alwyn Androvelle
-Dilsher Balouch
+Bright Chibuzor Ezeamaka
+
 
 Feel free to check the [issues page](../../issues/).
 
